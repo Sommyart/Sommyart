@@ -2,7 +2,8 @@
 - 👀 I’m interested in Ai art 
 - 🌱 I’m currently learning photo editing 
 - 💞️ I’m looking to collaborate on ideogram 
-- 📫 How to reach me sommyarts2001@gmail.com
+- 📫 How to reach me josiahbenmoshe@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/josiah-chisom-onyeji-331976395/
 - 😄 Pronouns: He
 - ⚡ Fun fact: Friendly 
 
