@@ -6,7 +6,7 @@ I run a creative studio focused on AI-generated photography, prompt engineering,
 
 - AI art, prompt engineering & visual content production
 - Digital Marketing Instructor, DDM Academy
-- Founder, DDM Movies (2024)
+- AI Content & Automation Specialist
 - Based in Enugu, Nigeria
 
 ### Featured Project
