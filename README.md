@@ -2,11 +2,12 @@
 
 **AI Creative Director** · Founder of **Sommyart Imagery** · Digital Marketing Instructor at **DDM Academy**
 
-I run a creative studio focused on AI-generated photography, prompt engineering, and visual content for brands, handling full workflows from concept to final deliverable.
+I'm a Creative AI Technologist and Prompt Engineer who combines creativity, branding, automation, and AI to build digital experiences that help businesses stand out. I believe technology should empower people to create opportunities, build businesses, and compete globally.
 
-- AI art, prompt engineering & visual content production
+- AI Photography, Commercial Visuals & AI Video Production
+- Brand Identity & Graphic Design
+- Prompt Engineering, AI Content & Business Automation
 - Digital Marketing Instructor, DDM Academy
-- AI Content & Automation Specialist
 - Based in Enugu, Nigeria
 
 ### Featured Project
