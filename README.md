@@ -9,6 +9,12 @@ I run a creative studio focused on AI-generated photography, prompt engineering,
 - Founder, DDM Movies (2024)
 - Based in Enugu, Nigeria
 
+### Featured Project
+
+**Sniper Rage** - a 3D tactical sniper game I'm building, playable right in the browser. Wave-based missions, an armory, and headshot tracking.
+
+Play it here: https://sniper-rage.edgeone.dev/
+
 ### Connect with me
 
 - Email: josiahbenmoshe@gmail.com
